@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 title: Reazon Team
+github:
+  en: https://jockerider199.github.io/reazon-rules/coc_en.md
+  fr: https://jockerider199.github.io/reazon-rules/coc_fr.md
